@@ -1,0 +1,43 @@
+{
+  "companyName": "Pratum Coffee",
+  "tagline": "Artisanal Coffee Roasters",
+  "about": "Crafting exceptional coffee experiences since 2010",
+  "products": [
+    {
+      "id": 1,
+      "name": "House Blend",
+      "description": "Smooth, balanced coffee with chocolate notes",
+      "price": 16.99,
+      "image": "house-blend.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ethiopian Yirgacheffe",
+      "description": "Bright, floral with citrus undertones",
+      "price": 19.99,
+      "image": "ethiopian.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Colombian Supremo",
+      "description": "Rich, full-bodied with caramel sweetness",
+      "price": 18.99,
+      "image": "colombian.jpg"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Downtown Cafe",
+      "address": "123 Main St",
+      "hours": "Mon-Fri: 7am-7pm, Sat-Sun: 8am-6pm"
+    }
+  ],
+  "contact": {
+    "email": "info@pratumcoffee.com",
+    "phone": "(555) 123-4567",
+    "social": {
+      "instagram": "@pratumcoffee",
+      "facebook": "PratumCoffee"
+    }
+  }
+} 
